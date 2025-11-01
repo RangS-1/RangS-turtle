@@ -1,0 +1,30 @@
+import turtle
+
+t = turtle.Turtle()
+
+t.penup()
+t.goto(0, -40)
+t.pendown()
+t.right(35)
+t.forward(135)
+t.left(145)
+t.forward(165)
+t.right(55)
+t.forward(135)
+t.left(125)
+t.forward(115)
+t.right(75)
+t.forward(125)
+t.left(155)
+t.forward(125)
+t.right(80)
+t.forward(125)
+t.left(125)
+t.forward(125)
+t.right(55)
+t.forward(165)
+t.left(135)
+t.forward(165)
+
+turtle.done()
+#i know it's bad
